@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\malicious_hashes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
